@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 onether file
+=======
+useless
+>>>>>>> 274a3dc733eba13700d451d3cb066f3393116fa3
